@@ -1,4 +1,4 @@
-![image](https://github.com/VanGits/vangits/assets/98533984/189b0951-1659-48c2-8d74-67d7eae1e73c)<h1 align="center">Hi 👋, I'm Van Celdran</h1>
+<h1 align="center">Hi 👋, I'm Van Celdran</h1>
 <h3 align="center">A passionate full-stack developer for creativity and innovation. I strive to hone my skills by consistently creating web applications that provide seamless user experiences.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vangits" alt="vangits" /></a> </p>
