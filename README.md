@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [MarketPlace](https://marketplace-ylzj.onrender.com/)
 
-- 🌱 I’m currently learning **Tailwind CSS**
-
 - 👨‍💻 All of my projects are available at [https://vanceldran.com/](https://vanceldran.com/)
 
 - 💬 Ask me about **React**
