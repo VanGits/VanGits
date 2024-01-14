@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vangits" alt="vangits" /></a> </p>
 
-- 🔭 I’m currently working on [MarketPlace](https://marketplace-ylzj.onrender.com/)
-
-- 👨‍💻 All of my projects are available at [https://vanceldran.com/](https://vanceldran.com/)
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **celdranvan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
