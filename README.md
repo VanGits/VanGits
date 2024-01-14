@@ -1,7 +1,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vangits" alt="vangits" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vangits&rank=SSS,S,A,B" alt="vangits" /></a> </p>
 <p align="left">A passionate programmer for creativity and innovation. I strive to hone my skills by consistently solving DSA problems and creating web applications that provide seamless user experiences.</p>
 
 <h3 align="left">Connect with me:</h3>
